@@ -1,0 +1,9 @@
+Flask==2.0.3
+tensorflow==2.9.1
+keras==2.9.0
+numpy==1.21.5
+pandas==1.3.5
+scikit-learn==1.0.2
+matplotlib==3.5.1
+seaborn==0.11.2
+yfinance==0.1.63  # For downloading stock data from Yahoo Finance

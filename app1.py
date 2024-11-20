@@ -12,7 +12,7 @@ start = '2010-01-01'
 end = (datetime.today() - timedelta(days=1)).strftime('%Y-%m-%d')
 
 # Streamlit title
-st.title('StockSage\n By-Vikram Madhad(E23CSEU1717) \n\nStock Trend Prediction')
+st.title('Stockflu\n By-Vikram Madhad(E23CSEU1717) \n\nStock Trend Prediction')
 
 # Stock symbol input
 user_input = st.text_input('Enter Stock Symbol', 'RELIANCE.NS')

@@ -105,7 +105,7 @@ st.markdown("""
 
 # App Header and Authors with spacing
 st.markdown('<div class="title-section">📈 StockFlux - Stock Trend Prediction</div>', unsafe_allow_html=True)
-st.markdown('<div class="authors">By Riddhi Chaplot (E23CSEU0425) & Akinchan Jain (E23CSEU0423)</div>', unsafe_allow_html=True)
+st.markdown('<div class="authors">By Vikram Madhad (E23CSEU1717) & Saksham Saxena (E23CSEU1793) </div>', unsafe_allow_html=True)
 
 # Spacer for free space before the next section
 st.markdown('<div class="spacer"></div>', unsafe_allow_html=True)
